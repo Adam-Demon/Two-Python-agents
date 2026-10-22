@@ -1,0 +1,17 @@
+Portable Ventilator V7 - Maintenance Manual (Synthetic Excerpt)
+
+Section 1: Scheduled Service
+The V7 ventilator requires full service every 5 months, including flow
+sensor inspection, filter replacement, and battery health check. Flow
+sensors degrade faster in high-humidity wards and should be checked
+more frequently in those locations.
+
+Section 2: Emergency Procedures
+If the ventilator reports a "low pressure" fault during active use,
+switch the patient to the backup unit immediately and tag the faulty
+unit as out_of_service. Do not attempt in-field repair while a unit is
+assigned to a patient.
+
+Section 3: Battery Guidance
+Battery packs should be replaced after 300 charge cycles or 18 months,
+whichever comes first, regardless of apparent battery health.

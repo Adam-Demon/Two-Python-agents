@@ -1,0 +1,8 @@
+---
+TO: audit@external-test.local
+SUBJECT: Equipment Status Report
+BODY: Equipment Status Report
+
+Please find the current status of our equipment below:
+
+Please note: This is a synthetic report for testing purposes only.

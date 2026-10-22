@@ -1,0 +1,17 @@
+Infusion Pump A12 - Maintenance Manual (Synthetic Excerpt)
+
+Section 1: Routine Calibration
+The Infusion Pump A12 requires calibration every 90 days. Calibration
+involves verifying flow accuracy within +/- 2% using a certified test rig.
+Any deviation greater than 5% requires immediate decommissioning and a
+replacement unit from central supply.
+
+Section 2: Common Faults
+If the occlusion alarm triggers repeatedly, inspect the tubing path for
+kinks before replacing the pressure sensor. Do not disable the occlusion
+alarm under any circumstance, as this is a patient safety control.
+
+Section 3: Software Updates
+Firmware updates must only be applied by certified biomedical engineering
+staff. Field technicians should never apply firmware updates without a
+documented change request.
